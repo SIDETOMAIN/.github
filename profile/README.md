@@ -1,4 +1,4 @@
-# SIDETOMAIN
+# 🔥 SIDETOMAIN
 
 ## Members
 * [BE][김연석](https://github.com/tastekim) 
